@@ -1,4 +1,4 @@
-app.js
+index.js
 const leftBtn= document.querySelector(".l-btn");
 const rightBtn = document.querySelector(".r-btn");
 
